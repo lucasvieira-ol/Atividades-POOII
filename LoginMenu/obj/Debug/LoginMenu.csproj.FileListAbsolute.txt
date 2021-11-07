@@ -1,0 +1,17 @@
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\bin\Debug\LoginMenu.exe.config
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\bin\Debug\LoginMenu.exe
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\bin\Debug\LoginMenu.pdb
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\bin\Debug\EntityFramework.dll
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\bin\Debug\EntityFramework.xml
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\obj\Debug\LoginMenu.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\obj\Debug\LoginMenu.Login.resources
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\obj\Debug\LoginMenu.Properties.Resources.resources
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\obj\Debug\LoginMenu.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\obj\Debug\LoginMenu.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\obj\Debug\LoginMenu.exe
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\obj\Debug\LoginMenu.pdb
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\obj\Debug\LoginMenu.Menu.resources
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\obj\Debug\LoginMenu.CreateUser.resources
+C:\Users\lucas\source\repos\CalculadoraImc\LoginMenu\obj\Debug\LoginMenu.csproj.CopyComplete

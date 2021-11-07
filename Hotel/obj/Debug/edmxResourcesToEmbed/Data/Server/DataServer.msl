@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="db_hotelModelStoreContainer" CdmEntityContainer="db_hotelEntities">
+    <EntitySetMapping Name="tbFuncionario">
+      <EntityTypeMapping TypeName="db_hotelModel.tbFuncionario">
+        <MappingFragment StoreEntitySet="tbFuncionario">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="DataContratacao" ColumnName="DataContratacao" />
+          <ScalarProperty Name="DataNascimento" ColumnName="DataNascimento" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="CPF" ColumnName="CPF" />
+          <ScalarProperty Name="id_funcionario" ColumnName="id_funcionario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbHospede">
+      <EntityTypeMapping TypeName="db_hotelModel.tbHospede">
+        <MappingFragment StoreEntitySet="tbHospede">
+          <ScalarProperty Name="Quarto" ColumnName="Quarto" />
+          <ScalarProperty Name="DataCheckOut" ColumnName="DataCheckOut" />
+          <ScalarProperty Name="DataCheckIn" ColumnName="DataCheckIn" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="CPF" ColumnName="CPF" />
+          <ScalarProperty Name="id_reserva" ColumnName="id_reserva" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbLogin">
+      <EntityTypeMapping TypeName="db_hotelModel.tbLogin">
+        <MappingFragment StoreEntitySet="tbLogin">
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="senha" ColumnName="senha" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="id_usuario" ColumnName="id_usuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

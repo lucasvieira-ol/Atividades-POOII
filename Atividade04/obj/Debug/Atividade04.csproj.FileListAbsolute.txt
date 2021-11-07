@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\bin\Debug\Atividade04.exe.config
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\bin\Debug\Atividade04.exe
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\bin\Debug\Atividade04.pdb
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\obj\Debug\Atividade04.Form1.resources
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\obj\Debug\Atividade04.Properties.Resources.resources
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\obj\Debug\Atividade04.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\obj\Debug\Atividade04.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\obj\Debug\Atividade04.exe
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\obj\Debug\Atividade04.pdb
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\bin\Debug\EntityFramework.dll
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\bin\Debug\EntityFramework.xml
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lucas\source\repos\CalculadoraImc\Atividade04\obj\Debug\Atividade04.csproj.AssemblyReference.cache
