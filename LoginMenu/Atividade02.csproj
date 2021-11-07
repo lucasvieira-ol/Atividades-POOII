@@ -145,6 +145,7 @@
       <DependentUpon>clientLogin.edmx</DependentUpon>
       <LastGenOutput>clientLogin.cs</LastGenOutput>
     </Content>
+    <Content Include="scripts\scripts_atividade02.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
